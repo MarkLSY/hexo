@@ -1,5 +1,4 @@
 ---
-layout: '[post]'
 title: knowledge
 date: 2018-07-19 11:16:17
 tags: test
@@ -11,4 +10,4 @@ tags: test
 
  ## 二级标题
 
- ### 三级标题
+ ### 三级标题   水水水水水
